@@ -1,0 +1,3 @@
+[submodule "Discrete-Denoising-Flows"]
+	path = Discrete-Denoising-Flows
+	url = https://github.com/inouye-lab/Discrete-Denoising-Flows.git
