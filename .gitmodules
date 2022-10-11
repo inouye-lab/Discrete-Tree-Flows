@@ -1,3 +1,6 @@
 [submodule "Discrete-Denoising-Flows"]
 	path = Discrete-Denoising-Flows
 	url = https://github.com/inouye-lab/Discrete-Denoising-Flows.git
+[submodule "AF-BF-Discrete-Flows"]
+	path = AF-BF-Discrete-Flows
+	url = https://github.com/inouye-lab/AF-BF-Discrete-Flows.git
